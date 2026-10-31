@@ -1,4 +1,10 @@
 # Peacock Court Hotel
+# Peacock Court Hotel Landing Page
+
+🔗 **[Click Here to View Live Website](https://github.io)**
+
+---
+
 
 A modern, responsive hotel landing page designed for Peacock Court Hotel in Kilifi, Kenya. The website presents the hotel’s identity, room offerings, amenities, and direct booking contact in a polished, user-friendly format.
 
