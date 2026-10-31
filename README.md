@@ -15,14 +15,15 @@ A modern, responsive hotel landing page designed for Peacock Court Hotel in Kili
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com" alt="peacock-court-pool-view" width="420" />
+        <img src="./peacock-court-pool-view.jpg" alt="peacock-court-pool-view" width="420" />
       </td>
       <td align="center">
-        <img src="./peacock-court-pool.jpg" alt="Peacock Court Hotel exterior and guest experience" width="420" />
+        <img src="./peacock-court-pool.jpg" alt="Peacock Court Hotel exterior" width="420" />
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
