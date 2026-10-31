@@ -5,7 +5,8 @@ A modern, responsive hotel landing page designed for Peacock Court Hotel in Kili
 ## Preview
 
 <div align="center">
-  <img src="./hotel-preview.jpg" alt="Peacock Court Hotel landing page" width="900" />
+  <img src="./hot<img width="703" height="1378" alt="WhatsApp Image 2026-10-31 at 7 35 12 PM (1)" src="https://github.com/user-attachments/assets/1f3d5511-ade4-4abf-ab59-12219a0445d2" />
+el-preview.jpg" alt="Peacock Court Hotel landing page" width="900" />
 </div>
 
 ### Hotel Showcase
@@ -13,8 +14,10 @@ A modern, responsive hotel landing page designed for Peacock Court Hotel in Kili
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="./hotel-gallery.jpg" alt="Peacock Court Hotel exterior and guest experience" width="420" /></td>
-      <td align="center"><img src="./hotel-rooms.jpg" alt="Peacock Court Hotel rooms" width="420" /></td>
+      <td align="center"><img src="./<img width="1366" height="724" alt="peacock-court-pool-view" src="https://github.com/user-attachments/assets/5482544d-fd6e-4756-a849-9aaf47e0d093" />
+hotel-gallery.jpg" alt="Peacock Court Hotel exterior and guest experience" width="420" /></td>
+      <td align="center"><img src="./h<img width="716" height="1373" alt="WhatsApp Image 2026-10-31 at 7 35 11 PM (1)" src="https://github.com/user-attachments/assets/b28c1f2b-da99-4414-821b-c19633e1b784" />
+otel-rooms.jpg" alt="Peacock Court Hotel rooms" width="420" /></td>
     </tr>
   </table>
 </div>
