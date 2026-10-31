@@ -8,7 +8,6 @@ A modern, responsive hotel landing page designed for Peacock Court Hotel in Kili
   <img src="https://github.com" alt="Peacock Court Hotel landing page" width="900" />
 </div>
 
-</div>
 
 ### Hotel Showcase
 
@@ -24,6 +23,7 @@ A modern, responsive hotel landing page designed for Peacock Court Hotel in Kili
     </tr>
   </table>
 </div>
+
 
 
 ## Overview
