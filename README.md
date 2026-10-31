@@ -1,7 +1,9 @@
 # Peacock Court Hotel
-# Peacock Court Hotel Landing Page
 
 🔗 **[Click Here to View Live Website](https://github.io)**
+
+---
+
 
 ---
 
